@@ -1,0 +1,16 @@
+body{
+  background:url(http://www.insanhaber.com/images/album/galeri/Almus_BarajiTokat.jpg);
+}
+div{
+  background: gray;
+  border-color: blue;
+  border-width: 10px;
+  border-style: double;
+}
+p{
+  color:red;
+}
+span{
+  background:green;
+  color:yellow;
+}
